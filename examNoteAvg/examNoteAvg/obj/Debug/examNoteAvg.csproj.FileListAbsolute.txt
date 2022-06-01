@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\bin\Debug\examNoteAvg.exe.config
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\bin\Debug\examNoteAvg.exe
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\bin\Debug\examNoteAvg.pdb
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\obj\Debug\examNoteAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\obj\Debug\examNoteAvg.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\obj\Debug\examNoteAvg.exe
+C:\Users\Abdullah\Desktop\A Project Every Day\examNoteAvg\examNoteAvg\obj\Debug\examNoteAvg.pdb
